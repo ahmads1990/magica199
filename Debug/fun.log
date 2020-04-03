@@ -1,0 +1,15 @@
+﻿  Player.cpp
+  main.cpp
+C:\Users\ahmad\Desktop\fun\main.cpp(9,13): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ahmad\Desktop\fun\main.cpp(10,13): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+C:\Users\ahmad\Desktop\fun\Player.cpp(46): warning C4715: 'Player::animate': not all control paths return a value
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'

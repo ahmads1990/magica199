@@ -1,0 +1,4 @@
+﻿  Menu.cpp
+C:\Users\ahmad\Desktop\fun\Menu.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\ahmad\Desktop\fun\Menu.cpp(27,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  fun.vcxproj -> C:\Users\ahmad\Desktop\fun\x64\Debug\fun.exe

@@ -1,0 +1,2 @@
+C:\Users\ahmad\Desktop\fun\x64\Debug\fun.exe
+C:\Users\ahmad\Desktop\fun\x64\Debug\fun.pdb
